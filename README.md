@@ -17,21 +17,7 @@ Ailo Network is a decentralized platform that enables distributed training of La
 
 ## ⛏️ Mining Options
 
-### 1. 🖥️ CUDA GPU Miner (Windows/Linux)
-For NVIDIA GPUs with 6GB+ VRAM. Highest performance.
-
-```bash
-cd cuda-client
-pip install -r requirements.txt
-python ailo_miner.py --wallet YOUR_WALLET_ADDRESS
-```
-
-**Requirements:**
-- NVIDIA GPU (RTX 3060+ recommended)
-- Python 3.10+
-- CUDA Toolkit 11.8+
-
-### 2. ☁️ Google Colab Miner (FREE)
+#2. ☁️ Google Colab Miner (FREE)
 No hardware required! Use Google's free Tesla T4 GPU.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xxrickyxx/ailo-network/blob/main/colab-client/Ailo_Colab_Miner.ipynb)
