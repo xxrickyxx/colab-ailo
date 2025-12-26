@@ -32,21 +32,6 @@ ailo-network/
 ├── colab-client/         # Google Colab notebook
 │   └── Ailo_Colab_Miner.ipynb
 ├── server/               # Node.js backend server
-│   └── server.js
-├── js/                   # Frontend JavaScript
-├── css/                  # Stylesheets
-└── *.html                # Web pages
-```
-
-## 🔧 Server Setup
-
-```bash
-cd server
-npm install
-node server.js
-```
-
-The server runs on port 3000 by default.
 
 ## 📊 API Endpoints
 
