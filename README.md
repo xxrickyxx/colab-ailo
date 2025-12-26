@@ -29,11 +29,6 @@ Mine directly in your browser at [ailo.site/dashboard.html](https://ailo.site/da
 
 ```
 ailo-network/
-├── cuda-client/          # Python GPU miner
-│   ├── ailo_miner.py     # Main miner script
-│   ├── training_engine.py # AILO-1B model & training
-│   ├── network_client.py # WebSocket/HTTP client
-│   └── gui_app.py        # GUI application
 ├── colab-client/         # Google Colab notebook
 │   └── Ailo_Colab_Miner.ipynb
 ├── server/               # Node.js backend server
